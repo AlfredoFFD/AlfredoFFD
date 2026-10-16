@@ -2,7 +2,7 @@
 
 MS in Artificial Intelligence at Columbia University and NSF Graduate Research Fellow.
 I work on interpretability and vision-language models. Before this I did computational
-neuroscience research at UPR, Yale's Wu Tsai Institute and UChicago.
+neuroscience research at UPRRP, Yale's Wu Tsai Institute and UChicago.
 
 **Paper:** [What Looks Like a Capability Limit in Vision-Language Models Is a Readout Limit](https://arxiv.org/abs/2609.27408) (arXiv, 2026)
 
